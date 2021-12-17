@@ -1,0 +1,266 @@
+appearance:
+  # Accent color, default '#2a2b33'
+  accent_color:
+  # Font color, default '#363636'
+  foreground_color:
+  # Border color, default '#e0e0e0'
+  border_color:
+  # body background, default '#f5f7fa'
+  background:
+  # Sidebar background (when opened), default to accent_color
+  sidebar_background:
+  # Card background, default '#fff'
+  card_background:
+
+  # All background settings above support image, e.g.,
+  # '//www.toptal.com/designers/subtlepatterns/patterns/confectionary.png #f5f7fa' or
+  # 'url(//www.toptal.com/designers/subtlepatterns/patterns/confectionary.png) #f5f7fa'
+
+  # 内容区域最大宽度
+  content_width: 1200
+
+  # 字体设置
+  font:
+    # 字体 CSS 文件的 URL
+    #url: //fonts.googleapis.com/css?family=Baloo+Bhaijaan|Inconsolata|Josefin+Sans|Montserrat
+
+    # 基础字体，作用于 body 元素
+    base: "Microsoft YaHei,'Josefin Sans', 'PingFang SC'"
+    # 作用于 sidebar 上方的 LOGO
+    logo:
+    # 作用于 sidebar 菜单栏
+    menu: 'Baloo Bhaijaan'
+    # 作用于文章百分比、归档页月份、分类文字数、分页、目录索引等地方
+    label: Montserrat
+    # 作用于标题
+    heading:
+    # 作用于代码及代码块
+    code: Inconsolata, monospace
+    # Base font for printing which applied to body
+    print:
+
+  # 代码语法高亮
+  # 接受设置值为 16 个 hex 色值的数组，具体请参考 base16 (https://github.com/chriskempson/base16)
+  # 默认配色方案为 Atelier Dune Light
+  highlight: [
+    '#ffffff', '#e0e0e0', '#d6d6d6', '#8e908c',
+    '#969896', '#4d4d4c', '#282a2e', '#1d1f21',
+    '#c82829', '#f5871f', '#eab700', '#718c00',
+    '#3e999f', '#4271ae', '#8959a8', '#a3685a'
+  ]
+
+  # 启用 darkmode
+  darkmode:
+    accent_color: '#539bf5'
+    foreground_color: '#adbac7'
+    border_color: '#373e47'
+    background: '#22272e'
+    sidebar_background: '#22272e'
+    card_background: '#2d333b'
+    highlight: [
+      '#2d333b', '#444c56', '#3e4451', '#545862',
+      '#565c64', '#abb2bf', '#b6bdca', '#c8ccd4',
+      '#e06c75', '#d19a66', '#e5c07b', '#98c379',
+      '#56b6c2', '#61afef', '#c678dd', '#be5046'
+    ]
+# Sidebar profile
+profile:
+  # 邮箱用于生成 gravatar 头像，如配置了 `hexo.config.email`，此项可缺省
+  email: m13451206034@163.com
+
+  # 也可以直接设置头像 URL
+  avatar: http://qiniu.gaowenju.com/header.jpg
+
+  # 个性签名
+  bio: Wenju Gao.
+
+menu:
+  #主页: /
+  #关于: /about
+  #搜索: /search
+  Github: https://github.com/wenjuGao
+sns:
+  email: m13451206034@163.com
+  feed:
+  github: https://github.com/wenjuGao
+  twitter:
+  facebook:
+  instagram:
+  tumblr:
+  dribbble:
+  telegram:
+  youtube:
+  hangouts:
+  linkedin:
+  pinterest:
+  soundcloud:
+  myspace:
+  weibo:
+  qq:
+   
+footer:
+  # 默认显示 @2019 • author，设置为 false 可隐藏。
+  copyright: false
+
+  # `由 Hexo 强力驱动` 字样，默认显示，设置为 false 可隐藏。
+  powered: false
+
+  # `主题 - Inside` 字样，默认显示，设置为 false 可隐藏。
+  theme: false
+
+  # 于最后一行添加自定义内容
+  # custom: Hosted by <a target="_blank" href="">Github Pages</a>
+page:
+  # 显示目录，默认启用，设置为 `false` 可禁用
+  toc: false
+
+  # 显示打赏，默认禁用，设置为 `true` 可启用
+  reward: true
+
+  # 显示版权声明，默认禁用，设置为 `true` 可启用
+  copyright: false
+  # 在 page 标题下方显示信息，目前只会显示 date。
+meta: true
+post:
+  # 首页文章列表的分页大小，缺省值 `10`
+  per_page: 10
+  # 设置缩略图
+  thumbnail: landscape.jpg
+  # 设置缩略图底色
+  color: '#111'
+
+  # 优先按 sticky 值排序（缺省值为 0），其次按 date
+  sticky: 1
+  # 显示阅读时间，缺省值 `true`
+  reading_time:
+    # 每分钟阅读字数
+    wpm: 200
+    # 展示文案
+    # 差值: `:words` 字数 `:minutes` 字数 / wpm
+    text: ":words words in :minutes min"
+
+  # 以下参数设置与 page 一致
+  toc: false
+  reward: true
+  copyright: false
+archive:
+  # 归档页分页大小，缺省值 `10`
+  per_page: 10
+
+tag:
+  # 标签页分页大小，缺省值 `10`
+  per_page: 10
+
+category:
+  # 分类页分页大小，缺省值 `10`
+  per_page: 10
+
+toc:
+  # 最多显示几层目录，最多 4 层，缺省值 `3`
+  depth:
+  # 是否显示标号，如 1.1、1.2，默认显示，设置为 false 可隐藏。
+  index: false
+
+reward:
+  # 显示一句文案
+  text: Buy me a cup of coffee ☕.
+
+  # 支付方式列表，注意是数组
+  methods:
+    -
+    # wechat、alipay、paypal、bitcoin 对应四种不同的图标和配色
+    # 此外的任何自定义名称，都需要在语言文件内增加相应的语言，
+    # 同时配色与 appearance.accent_color 一致
+      name:
+      # 二维码地址
+      qrcode:
+      # 显示一个链接
+      url:
+      # 若设置了 url，则此值会显示为链接的文本，否则为一段普通文本
+      text:
+      # 选中时的颜色
+      color:
+
+      # qrcode、url 和 text 必须至少设置一项
+
+
+copyright:
+  # 显示作者，设置为 false 可隐藏。
+  author: false
+  # 显示文章链接，设置为 false 可隐藏。
+  link: false
+  # 版权声明
+  #license: Attribution-NonCommercial-NoDerivatives 4.0 International<br>(<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external nofollow noopener" target="_blank">CC BY-NC-ND 4.0</a>)
+  # 显示发表日期，默认不显示，设置为 true 可显示。
+  published: true
+  # 显示修改日期，默认不显示，设置为 true 可显示。
+  updated: true
+  # 禁用以上设置，显示自定义信息
+  custom:  
+
+
+search:
+  # 在页面右下角的 FAB 按钮里显示快捷搜索入口
+  fab: true
+
+  # 额外生成 search 页面，可配置在 sidebar 导航，如 `Search: /search`
+  page: true
+
+  # 以上两个入口必须至少设置一个，否则视为无效配置
+
+  # 本地搜索，即生成本地 json 文件
+  adapter:
+    # json 数据的范围，数组
+    range:
+      - post
+      - page
+
+    # json 数据的条目限制
+    # 假如 `limit:1000`，同时有 800 篇 post，800 篇 page，则最终生成的数据包含：
+    # 800 篇 post，200 篇 page
+    # 缺省值 `10000`
+    limit: 10000
+
+    # 搜索结果分页大小，缺省值 `10`
+    per_page: 5
+
+
+plugins:
+  # 内置插件
+  - cipher
+  # 带参数
+  - cipher:
+      placeholder: 123456
+      excerpt: Content encrypted
+  - palette:
+      # 颜色列表
+      theme: [
+        '#673ab7',
+        '#3f51b5',
+        '#2196f3',
+        '#009688',
+        '#4caf50',
+        '#ff9800',
+        '#ff5722',
+        '#795548',
+        '#607D8B',
+        '#2a2b33'
+      ]
+  # 全局加载脚本/样式
+  #- xxx.css
+  #- xxx.js
+
+  # 动态插入可执行的代码片段
+  #- position: # sidebar | post | page | comments | avatar | head_begin | head_end | body_begin | body_end
+    # HTML 片段
+    #template: <script>...</script>
+    # 也可以是相对于 hexo 项目根目录的路径，例如：
+    #template: snippets/template-1.html
+
+assets:
+  prefix: http://qiniu.gaowenju.com
+  suffix: '?m=webp&q=80'
+#ga: UA-00000000-0
+seo:
+  # 于页面头部添加 structured data 标签，默认禁用
+  structured_data: true
