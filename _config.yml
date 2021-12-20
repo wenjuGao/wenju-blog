@@ -84,9 +84,9 @@ theme: icarus
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repository: https://github.com/wenjuGao/wenju-blog.git
-  branch: gh-pages
+  type: git 
+  repository: git@github.com:wenjuGao/wenju-blog.git  
+  branch: gh-pages 
 
 marked:
   gfm: false
