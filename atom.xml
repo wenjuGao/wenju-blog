@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>前端小书童</title>
+  
+  
+  <link href="http://wenju.github.io/blog/atom.xml" rel="self"/>
+  
+  <link href="http://wenju.github.io/blog/"/>
+  <updated>2021-12-20T09:26:00.000Z</updated>
+  <id>http://wenju.github.io/blog/</id>
+  
+  <author>
+    <name>wenju</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数据结构</title>
+    <link href="http://wenju.github.io/blog/algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>http://wenju.github.io/blog/algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
+    <published>2021-12-20T09:26:00.000Z</published>
+    <updated>2021-12-20T09:26:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="数据结构"><a href="#数据结构" class="headerlink" title="数据结构"></a>数据结构</h2><h3 id="数组（Array）"><a href="#数组（Array）" class="headerlink" title="数组（Array）"></a>数组（Array）</h3><ul><li>堆</li><li>栈</li><li>矩阵<h3 id="对象（Object、Map、Set）"><a href="#对象（Object、Map、Set）" class="headerlink" title="对象（Object、Map、Set）"></a>对象（Object、Map、Set）</h3></li><li>哈希表</li><li>链表</li><li>二叉树</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;数据结构&quot;&gt;&lt;a href=&quot;#数据结构&quot; class=&quot;headerlink&quot; title=&quot;数据结构&quot;&gt;&lt;/a&gt;数据结构&lt;/h2&gt;&lt;h3 id=&quot;数组（Array）&quot;&gt;&lt;a href=&quot;#数组（Array）&quot; class=&quot;headerlink&quot; title=</summary>
+      
+    
+    
+    
+    <category term="algorithm" scheme="http://wenju.github.io/blog/categories/algorithm/"/>
+    
+    
+    <category term="算法" scheme="http://wenju.github.io/blog/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>时间空间复杂度</title>
+    <link href="http://wenju.github.io/blog/algorithm/%E6%97%B6%E9%97%B4%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6/"/>
+    <id>http://wenju.github.io/blog/algorithm/%E6%97%B6%E9%97%B4%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6/</id>
+    <published>2021-12-20T09:26:00.000Z</published>
+    <updated>2021-12-20T09:26:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="时间空间复杂度"><a href="#时间空间复杂度" class="headerlink" title="时间空间复杂度"></a>时间空间复杂度</h2><h3 id="时间复杂度（T-n-）"><a href="#时间复杂度（T-n-）" class="headerlink" title="时间复杂度（T(n)）"></a>时间复杂度（T(n)）</h3><figure class="highlight javascript"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span>(<span class="keyword">let</span> i = <span class="number">0</span>; i&lt; n; i++){f()}</span><br></pre></td></tr></tbody></table></figure><h3 id="空间复杂度（S-n-）"><a href="#空间复杂度（S-n-）" class="headerlink" title="空间复杂度（S(n)）"></a>空间复杂度（S(n)）</h3><figure class="highlight javascript"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span>(<span class="keyword">let</span> i = <span class="number">0</span>; i&lt; n; i++){f()}</span><br></pre></td></tr></tbody></table></figure><p>大O符号表示法：O(n) </p><p>$$T(n)=O(f(n))$$</p><p>其中O表示正比例关系（复杂度依次增大）：</p><ul><li>常数阶 $O(1)$</li><li>对数阶 $O(log_2n)$</li><li>线性阶 $O(n)$</li><li>线性对数阶 $O(nlog_2n)$</li><li>平方阶 $O(n^2)$</li><li>立方阶 $O(n^3)$</li><li>K次方阶 $O(n^k)$</li><li>指数阶 $O(2^n)$</li><li>n阶指数阶 $O(n!)$</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;时间空间复杂度&quot;&gt;&lt;a href=&quot;#时间空间复杂度&quot; class=&quot;headerlink&quot; title=&quot;时间空间复杂度&quot;&gt;&lt;/a&gt;时间空间复杂度&lt;/h2&gt;&lt;h3 id=&quot;时间复杂度（T-n-）&quot;&gt;&lt;a href=&quot;#时间复杂度（T-n-）&quot; class=&quot;he</summary>
+      
+    
+    
+    
+    <category term="algorithm" scheme="http://wenju.github.io/blog/categories/algorithm/"/>
+    
+    
+    <category term="算法" scheme="http://wenju.github.io/blog/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端开发中不同终端区别</title>
+    <link href="http://wenju.github.io/blog/browser/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B8%AD%E4%B8%8D%E5%90%8C%E7%BB%88%E7%AB%AF%E5%8C%BA%E5%88%AB/"/>
+    <id>http://wenju.github.io/blog/browser/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B8%AD%E4%B8%8D%E5%90%8C%E7%BB%88%E7%AB%AF%E5%8C%BA%E5%88%AB/</id>
+    <published>2021-12-20T09:26:00.000Z</published>
+    <updated>2021-12-20T09:26:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前端开发中不同终端区别"><a href="#前端开发中不同终端区别" class="headerlink" title="前端开发中不同终端区别"></a>前端开发中不同终端区别</h2><p>在前端开中不管是本地开发启动项目，还是打包亦或者提交代码、win 下开发 node 服务都会使用到不同的终端，当然大多时候其实工作中 IDE 的终端已经完全满足我们的需求，很少再使用其他的终端但是 IDE(vsCode、webStorm、Atom…)的终端和 CMD、git-bash 到底区别在哪里呢</p><h3 id="git-bash"><a href="#git-bash" class="headerlink" title="git bash"></a>git bash</h3><p>git bash 命令行默认使用 mintty</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前端开发中不同终端区别&quot;&gt;&lt;a href=&quot;#前端开发中不同终端区别&quot; class=&quot;headerlink&quot; title=&quot;前端开发中不同终端区别&quot;&gt;&lt;/a&gt;前端开发中不同终端区别&lt;/h2&gt;&lt;p&gt;在前端开中不管是本地开发启动项目，还是打包亦或者提交代码、win 下</summary>
+      
+    
+    
+    
+    <category term="browser" scheme="http://wenju.github.io/blog/categories/browser/"/>
+    
+    
+    <category term="browser" scheme="http://wenju.github.io/blog/tags/browser/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>window 指令之 tree</title>
+    <link href="http://wenju.github.io/blog/browser/window-%E6%8C%87%E4%BB%A4%E4%B9%8B-tree/"/>
+    <id>http://wenju.github.io/blog/browser/window-%E6%8C%87%E4%BB%A4%E4%B9%8B-tree/</id>
+    <published>2021-12-20T09:26:00.000Z</published>
+    <updated>2021-12-20T09:26:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="window-指令之-tree"><a href="#window-指令之-tree" class="headerlink" title="window 指令之 tree"></a>window 指令之 tree</h2><p>tree 命令显示当前文件夹的目录结构，这是一个非常有用的命令，可以帮我们迅速了解当前目录的结构</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">PS D:\****&gt; tree /?</span><br><span class="line">以图形显示驱动器或路径的文件夹结构。</span><br><span class="line"></span><br><span class="line">TREE [drive:][path] [/F] [/A]</span><br><span class="line"></span><br><span class="line">   /F   显示每个文件夹中文件的名称。</span><br><span class="line">   /A   使用 ASCII 字符，而不使用扩展字符。</span><br></pre></td></tr></tbody></table></figure><p>tree [drive:][path] [/F][/a]</p><h3 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h3><ul><li>drive 盘符</li><li>path 文件路径</li><li>/F 递归列出所有文件</li><li>/A 只查看文件夹, 忽略文件</li></ul><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line">D:\**********&gt;tree</span><br><span class="line">卷 **** 的文件夹 PATH 列表</span><br><span class="line">卷序列号为 *****</span><br><span class="line">D:.</span><br><span class="line">├─.vscode</span><br><span class="line">├─chart</span><br><span class="line">│  └─D3</span><br><span class="line">├─flutter</span><br><span class="line">├─img</span><br><span class="line">│  ├─css</span><br><span class="line">│  ├─d3</span><br><span class="line">│  │  └─vue-d3</span><br><span class="line">│  ├─leetcode</span><br><span class="line">│  └─web</span><br><span class="line">├─javascript</span><br><span class="line">├─svg</span><br><span class="line">├─template</span><br><span class="line">│  ├─vue2-ant</span><br><span class="line">│  ├─vue2-d3</span><br><span class="line">│  ├─vue2-element</span><br><span class="line">│  └─vue3-ant</span><br><span class="line">├─vue</span><br><span class="line">├─webpack</span><br><span class="line">├─window</span><br></pre></td></tr></tbody></table></figure><h3 id="tree-F-gt-tree-txt"><a href="#tree-F-gt-tree-txt" class="headerlink" title="tree /F > tree.txt"></a>tree /F &gt; tree.txt</h3><p>生成的文件目录树形结构写入到 tree.txt</p><h3 id="tree-A-gt-tree-txt"><a href="#tree-A-gt-tree-txt" class="headerlink" title="tree /A > tree.txt"></a>tree /A &gt; tree.txt</h3><p>查看文件夹,忽略文件</p><h3 id="路径"><a href="#路径" class="headerlink" title="路径"></a>路径</h3><p>tree D:/a &gt; D:/b/tree.txt把 D 盘下 a 的目录机构接到 D 盘下 b 文件的 tree.txt 文件中如果指定的目录中已经存在该文件则覆盖</p><p>以上是 window 中 tree，给我提供的方法了，但是很多时候，这指令似乎有些不公用，比如：我们在生成目录是希望忽略包文件的目录，有时我们要不并不是所有目录机构</p><p>我们可以借助 node 的一些包辅助我们完成上面的需求：</p><ol><li><a target="_blank" rel="noopener" href="https://www.npmjs.com/package/tree-node-cli">tree-node-cli</a></li><li><a target="_blank" rel="noopener" href="https://www.npmjs.com/package/tree-cli">tree-cli</a></li></ol><h3 id="tree-node-cli"><a href="#tree-node-cli" class="headerlink" title="tree-node-cli"></a>tree-node-cli</h3><p>为了避免和系统的 tree 命令冲突,需要用 treee 代替 tree安装 npm install -g tree-node-cli 或者 yarn add global tree-node-cli ​ </p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">PS D:\******&gt; treee -h</span><br><span class="line">Usage: tree [options]</span><br><span class="line"></span><br><span class="line">Options:</span><br><span class="line">  -V, --version             output the version number</span><br><span class="line">  -a, --all-files           All files, include hidden files, are printed.</span><br><span class="line">  --dirs-first              List directories before files.</span><br><span class="line">  -d, --dirs-only           List directories only.</span><br><span class="line">  -I, --exclude [patterns]  Exclude files that match the pattern. | separates alternate patterns. Wrap your entire pattern in double quotes. E.g. `"node_modules|coverage".</span><br><span class="line">  -L, --max-depth &lt;n&gt;       Max display depth of the directory tree.</span><br><span class="line">  -r, --reverse             Sort the output in reverse alphabetic order.</span><br><span class="line">  -F, --trailing-slash      Append a '/' for directories.</span><br><span class="line">  -h, --help                display help for command</span><br></pre></td></tr></tbody></table></figure><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">-V, --version 输出版本号</span><br><span class="line">-a, --all-files 打印所有文件，包括隐藏文件</span><br><span class="line">--dirs-first 目录在前，文件在后</span><br><span class="line">-d, --dirs-only 仅列出目录</span><br><span class="line">-I, --exclude [patterns] 排除与模式匹配的文件。用 | 隔开,用双引号包裹。 例如 “node_modules|.git”</span><br><span class="line">-L, --max-depth &lt;n&gt; 目录树的最大显示深度</span><br><span class="line">-r, --reverse 按反向字母顺序对输出进行排序</span><br><span class="line">-F, --trailing-slash 为目录添加'/'</span><br><span class="line">-h, --help 输出用法信息</span><br></pre></td></tr></tbody></table></figure><h4 id="tree-L-2"><a href="#tree-L-2" class="headerlink" title="tree -L 2"></a>tree -L 2</h4><p>L 表示 level，表示的是目录的层级，n 表示目录的第几个层级</p><h4 id="tree-d-L-1"><a href="#tree-d-L-1" class="headerlink" title="tree -d -L 1"></a>tree -d -L 1</h4><p>d 表示 directory，只显示目录名，不显示文件名</p><h4 id="tree-I-‘node-modules’"><a href="#tree-I-‘node-modules’" class="headerlink" title="tree -I ‘node_modules’"></a>tree -I ‘node_modules’</h4><p>I 表示 ignore，忽略指定的文件或者文件夹</p><h3 id="tree-cli"><a href="#tree-cli" class="headerlink" title="tree-cli"></a>tree-cli</h3><p>为了避免和系统的 tree 命令冲突,需要用 treee 代替 tree安装 npm install -g tree-cli 或者 yarn add global tree-cli</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br></pre></td><td class="code"><pre><span class="line">PS D:\******&gt; treee -h</span><br><span class="line"></span><br><span class="line">  OPTIONS:</span><br><span class="line"></span><br><span class="line">  --help, -h</span><br><span class="line">    outputs a verbose usage listing.</span><br><span class="line">  --version</span><br><span class="line">    outputs the version of tree-cli.</span><br><span class="line">  --debug</span><br><span class="line">    show debug info.</span><br><span class="line">  --ignore</span><br><span class="line">    ignores directory or file you specify.</span><br><span class="line">  --base</span><br><span class="line">    specify a root directory. Relative path from cwd root and absolute path are both acceptable.</span><br><span class="line">  --fullpath</span><br><span class="line">    prints the full path prefix for each file.</span><br><span class="line">  --noreport</span><br><span class="line">    omits printing of the file and directory report at the</span><br><span class="line">    end of the tree listing and omits printing the tree on</span><br><span class="line">    console.</span><br><span class="line">  -a</span><br><span class="line">    all files are printed. By default tree does not print</span><br><span class="line">    hidden files (those beginning with a dot '.'). In no</span><br><span class="line">    event does tree print the file system constructs '.'</span><br><span class="line">    (current directory) and '..' (previous directory).</span><br><span class="line">  -d</span><br><span class="line">    list directories only.</span><br><span class="line">  --directoryFirst</span><br><span class="line">    list directories first.</span><br><span class="line">  -f</span><br><span class="line">    append a '/' for directories, a '=' for socket files</span><br><span class="line">    and a '|' for FIFOs</span><br><span class="line">  -i</span><br><span class="line">    makes tree not print the indentation lines, useful</span><br><span class="line">    when used in conjunction with the -f option.</span><br><span class="line">  -l</span><br><span class="line">    max display depth of the directory tree.</span><br><span class="line">  -o</span><br><span class="line">    send output to filename.</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">--help, -h 输出用法信息</span><br><span class="line">--version 输出版本号</span><br><span class="line">--debug debug信息</span><br><span class="line">--ignore 忽略文件或者文件夹</span><br><span class="line">--base 指定根目录,支持相对路径或者绝对路径</span><br><span class="line">--fullpath 每个文件均打印全路径</span><br><span class="line">--noreport 不打印文件及文件夹的总数</span><br><span class="line">-a 默认是不打印以'.'或者'..'开头的文件或者文件夹，-a则打印所有包括'.'或者'..'开头的</span><br><span class="line">-d 只打印文件夹</span><br><span class="line">--directoryFirst 只打印顶级文件夹</span><br><span class="line">-f  为目录追加一个“/”，为套接字文件追加一个“=”和一个“|”表示FIFOs</span><br><span class="line">-i 不打印缩进线，一般与-f选项一起使用时生成平级目录</span><br><span class="line">-l 目录树的最大显示深度</span><br><span class="line">-o 打印内容导成文件</span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;window-指令之-tree&quot;&gt;&lt;a href=&quot;#window-指令之-tree&quot; class=&quot;headerlink&quot; title=&quot;window 指令之 tree&quot;&gt;&lt;/a&gt;window 指令之 tree&lt;/h2&gt;&lt;p&gt;tree 命令显示当前文件夹的目录结</summary>
+      
+    
+    
+    
+    <category term="browser" scheme="http://wenju.github.io/blog/categories/browser/"/>
+    
+    
+    <category term="browser" scheme="http://wenju.github.io/blog/tags/browser/"/>
+    
+  </entry>
+  
+</feed>
