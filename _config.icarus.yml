@@ -17,7 +17,7 @@ head:
         # when there is not enough space to display full name
         short_name: 前端小书童
         # The start URL of the web application
-        start_url: https://wenju-blog.github.io/
+        start_url:  https://wenjuGao.github.io/
         # The default theme color for the application
         theme_color: "#3273dc"
         # A placeholder background color for the application page to display
@@ -114,10 +114,10 @@ navbar:
     links:
         Discuss on GitHub:
             icon: fas fa-comments
-            url: 'https://github.com/wenjuGao/wenju-blog/discussions'
+            url: 'https://github.com/wenjuGao/wenju-blog/discuss'
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/wenjuGao/wenju-blog'
+            url: 'https://github.com/wenjuGao'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
@@ -127,10 +127,10 @@ footer:
             url: 'https://creativecommons.org/'
         Discuss on GitHub:
             icon: fas fa-comments
-            url: 'https://github.com/wenjuGao/wenju-blog/discussions'
+            url: 'https://github.com/wenjuGao/wenju-blog/discuss'
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/wenjuGao/wenju-blog'
+            url: 'https://github.com/wenjuGao/wenju-blog.io'
 # Article related configurations
 article:
     # Code highlight settings
