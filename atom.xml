@@ -3,11 +3,11 @@
   <title>前端小书童</title>
   
   
-  <link href="https://wenjugao.github.io/atom.xml" rel="self"/>
+  <link href="http://wenju.github.io/blog/atom.xml" rel="self"/>
   
-  <link href="https://wenjugao.github.io/"/>
+  <link href="http://wenju.github.io/blog/"/>
   <updated>2021-12-20T09:26:00.000Z</updated>
-  <id>https://wenjugao.github.io/</id>
+  <id>http://wenju.github.io/blog/</id>
   
   <author>
     <name>wenju</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>数据结构</title>
-    <link href="https://wenjugao.github.io/algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    <id>https://wenjugao.github.io/algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
+    <link href="http://wenju.github.io/blog/algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <id>http://wenju.github.io/blog/algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
     <published>2021-12-20T09:26:00.000Z</published>
     <updated>2021-12-20T09:26:00.000Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="algorithm" scheme="https://wenjugao.github.io/categories/algorithm/"/>
+    <category term="algorithm" scheme="http://wenju.github.io/blog/categories/algorithm/"/>
     
     
-    <category term="算法" scheme="https://wenjugao.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="http://wenju.github.io/blog/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>时间空间复杂度</title>
-    <link href="https://wenjugao.github.io/algorithm/%E6%97%B6%E9%97%B4%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6/"/>
-    <id>https://wenjugao.github.io/algorithm/%E6%97%B6%E9%97%B4%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6/</id>
+    <link href="http://wenju.github.io/blog/algorithm/%E6%97%B6%E9%97%B4%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6/"/>
+    <id>http://wenju.github.io/blog/algorithm/%E6%97%B6%E9%97%B4%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6/</id>
     <published>2021-12-20T09:26:00.000Z</published>
     <updated>2021-12-20T09:26:00.000Z</updated>
     
@@ -57,17 +57,17 @@
     
     
     
-    <category term="algorithm" scheme="https://wenjugao.github.io/categories/algorithm/"/>
+    <category term="algorithm" scheme="http://wenju.github.io/blog/categories/algorithm/"/>
     
     
-    <category term="算法" scheme="https://wenjugao.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="http://wenju.github.io/blog/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>前端开发中不同终端区别</title>
-    <link href="https://wenjugao.github.io/browser/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B8%AD%E4%B8%8D%E5%90%8C%E7%BB%88%E7%AB%AF%E5%8C%BA%E5%88%AB/"/>
-    <id>https://wenjugao.github.io/browser/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B8%AD%E4%B8%8D%E5%90%8C%E7%BB%88%E7%AB%AF%E5%8C%BA%E5%88%AB/</id>
+    <link href="http://wenju.github.io/blog/browser/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B8%AD%E4%B8%8D%E5%90%8C%E7%BB%88%E7%AB%AF%E5%8C%BA%E5%88%AB/"/>
+    <id>http://wenju.github.io/blog/browser/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B8%AD%E4%B8%8D%E5%90%8C%E7%BB%88%E7%AB%AF%E5%8C%BA%E5%88%AB/</id>
     <published>2021-12-20T09:26:00.000Z</published>
     <updated>2021-12-20T09:26:00.000Z</updated>
     
@@ -81,17 +81,17 @@
     
     
     
-    <category term="browser" scheme="https://wenjugao.github.io/categories/browser/"/>
+    <category term="browser" scheme="http://wenju.github.io/blog/categories/browser/"/>
     
     
-    <category term="browser" scheme="https://wenjugao.github.io/tags/browser/"/>
+    <category term="browser" scheme="http://wenju.github.io/blog/tags/browser/"/>
     
   </entry>
   
   <entry>
     <title>window 指令之 tree</title>
-    <link href="https://wenjugao.github.io/browser/window-%E6%8C%87%E4%BB%A4%E4%B9%8B-tree/"/>
-    <id>https://wenjugao.github.io/browser/window-%E6%8C%87%E4%BB%A4%E4%B9%8B-tree/</id>
+    <link href="http://wenju.github.io/blog/browser/window-%E6%8C%87%E4%BB%A4%E4%B9%8B-tree/"/>
+    <id>http://wenju.github.io/blog/browser/window-%E6%8C%87%E4%BB%A4%E4%B9%8B-tree/</id>
     <published>2021-12-20T09:26:00.000Z</published>
     <updated>2021-12-20T09:26:00.000Z</updated>
     
@@ -105,10 +105,10 @@
     
     
     
-    <category term="browser" scheme="https://wenjugao.github.io/categories/browser/"/>
+    <category term="browser" scheme="http://wenju.github.io/blog/categories/browser/"/>
     
     
-    <category term="browser" scheme="https://wenjugao.github.io/tags/browser/"/>
+    <category term="browser" scheme="http://wenju.github.io/blog/tags/browser/"/>
     
   </entry>
   
